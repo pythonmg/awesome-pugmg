@@ -6,7 +6,7 @@ Este repositório surgiu com a inteção de apaziguar as tretas recorrentes no n
 
 # Como contribuiir
 
-Por favor, confira nosso guia de como contribuir antes de enviar seu pull-request.
+Por favor, confira nosso [guia de como contribuir](https://github.com/tilacog/awesome-pugmg/blob/master/CONTRIBUTING.md) antes de enviar seu pull-request.
 
 # Categorias
 
